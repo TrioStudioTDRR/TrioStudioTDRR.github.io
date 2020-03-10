@@ -1,0 +1,41 @@
+body {
+    background-image: url(background.jpg);
+}
+
+.navbar.navbar-expand-md.navbar-dark {
+    background-color: rgba(0, 0, 0, 0.603);
+}
+
+.btn.my-2.my-sm-0 {
+    color: white;
+    background-clip: padding-box;
+    background-color: blueviolet;
+    background-clip: padding-box;
+    border-style: outset;
+    border-color: blueviolet;
+    border-radius: 2px;
+    font-weight: bold;
+    border-width: 3px;
+}
+
+.cup h1 {
+    color: blueviolet;
+}
+ .cup {
+    text-shadow: 3px 3px black;
+
+ }
+
+ .cup li {
+    list-style-type: square;
+    list-style-position: inside;
+ }
+
+ .fit-image{
+    width: 100%;
+    object-fit: cover;
+ }
+
+ .navbar.fixed-bottom.navbar-expand-sm.navbar-dark {
+    background-color: rgba(0, 0, 0, 0.603);
+}
